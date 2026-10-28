@@ -14,9 +14,9 @@
 
 ---
 
-<div align="center">
-  <video src="./assets/demo.mp4" width="100%" controls autoplay muted loop></video>
-</div>
+
+https://github.com/user-attachments/assets/2fa594f8-a654-4fb5-82b3-98e8706e3ebc
+
 
 ---
 
